@@ -1,3 +1,23 @@
+// The Parametric Christmas Tree Engineering Game! (paramTree)
+// Copyright (C) 2014 Thomas Michael Wallace <http://www.thomasmichaelwallace.co.uk>
+
+// The paraTree is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+
+// The paraTree is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+// GNU General Public License for more details.
+
+// You should have received a copy of the GNU General Public License
+// along with The paraTree. If not, see <http://www.gnu.org/licenses/>.
+
+// Setup:
+//   paraTree depends on the RaphaelJS Library: http://raphaeljs.com/
+//   To make it work, stick it on a html page with a <div> of id: holder, and the RaphaelJS script loaded before.
+
 window.onload = function() {
 
     // Set the stage for this festive offering.
